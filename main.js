@@ -29,6 +29,8 @@ function changeActiveBox(nomor) {
     activeBox.appendChild(tmbl);
 }
 
+//
+
 $(document).ready(function() {
     $('.owl-carousel').owlCarousel({
         loop: true,
